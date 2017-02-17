@@ -56,10 +56,11 @@ Actually does nothing
 If size value is bigger then actually elemnt's size function doesn't truncate it.
 
 ## Authors
-* __Mykola Khodan__ - [mkhodan](https://github.com/mkhodan)
+* __Mykola Khodan__ - Initial work - [mkhodan](https://github.com/mkhodan)
 
 ## License
->  Copyright (c) 2008 Henrik Nyh
+This project is licensed under the MIT License:
+>  Copyright (c) 2017 Mykola Khodan
 >
 >  Permission is hereby granted, free of charge, to any person obtaining a copy
 >  of this software and associated documentation files (the "Software"), to deal
