@@ -21,5 +21,3 @@ $.fn.trunc = function(size = 100) {
 	}
 	    return this;
 }
-
-$('.trnc').trunc(223);
