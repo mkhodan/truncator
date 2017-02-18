@@ -55,11 +55,11 @@ Actually does nothing
 
 If size value is bigger then actually elemnt's size function doesn't truncate it.
 
-## Authors
-* __Mykola Khodan__ - Initial work - [mkhodan](https://github.com/mkhodan)
-
 ## Requirements
 * [__jQuery__](http://jquery.com) - You need jQuery to be included to your project.
+
+## Authors
+* __Mykola Khodan__ - Initial work - [mkhodan](https://github.com/mkhodan)
 
 ## License
 This project is licensed under the MIT License:
