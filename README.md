@@ -58,6 +58,9 @@ If size value is bigger then actually elemnt's size function doesn't truncate it
 ## Authors
 * __Mykola Khodan__ - Initial work - [mkhodan](https://github.com/mkhodan)
 
+## Requirements
+* [__jQuery__](http://jquery.com) - You need any jQuery version, only basic functionality used.
+
 ## License
 This project is licensed under the MIT License:
 >  Copyright (c) 2017 Mykola Khodan
